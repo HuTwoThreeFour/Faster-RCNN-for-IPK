@@ -18,3 +18,4 @@ PIL
 6.open explorer and open http://localhost:6006 to see the training result
 
 # A example of result:
+![image](https://github.com/HuTwoThreeFour/Faster-RCNN-for-IPK/blob/master/example.png)
